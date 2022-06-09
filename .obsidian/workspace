@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d69ea398eadde7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae842f901386d41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hardware Assessment Lab Exercise.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2b00b0005270f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a5fb4eeeb938ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f713f6d9f02669",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21edc88f63473965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "604f984b688d93ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db7aa64ae230c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c282daae527cbde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hardware Assessment Lab Exercise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ae842f901386d41",
+  "lastOpenFiles": [
+    "Hardware Assessment Lab Exercise.md",
+    "Pi Configuration.md",
+    "TL-WR1043ND/S25FL064P.pdf",
+    "TL-WR1043ND/pi_uart_pinout.png",
+    "TL-WR886N/Pics/spi connection to target.jpg",
+    "TL-WR886N/Pics/spi flash.jpg",
+    "TL-WR886N/Pics/TL-WR886N UART Pinout.jpg",
+    "TL-WR886N/Pics/pi spi pinouts.png",
+    "TL-WR1043ND/TL_WR1043ND UART.jpg",
+    "TL-WR886N/Pics/flash_layout.png"
+  ]
+}
