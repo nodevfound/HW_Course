@@ -45,8 +45,8 @@ Step 1: Rasberry Pi UART configuration, follow the pinout and connect to the tra
 
 Step 2: Use minicom tool to interact with the OS
 
->$ minicom -s /dev/ttyS0
-115200 8N1
+>$ minicom -s /dev/ttyS0 <br>
+115200 8N1 <br>
 Pi Pinout: Pin 8 (Tx)  Pin 10 (Rx)
 
 UART Shell
