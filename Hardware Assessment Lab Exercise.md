@@ -18,7 +18,7 @@ Step 2: Use the test clip and connect it to the TL-WR886N SPI chip
 <img src="TL-WR886N/Pics/spi%20connection%20to%20target.jpg" height="400" width="400"> 
 
 >[!INFO]
->This is a SPI Flash GD25Q16C (2MB) and their pinouts
+>This is a SPI Flash GD25Q16C (2MB) and their pinouts <br>
 > Connect WP and HOLD pins to VCC
 
 <img src="TL-WR886N/Pics/spi%20flash.jpg" height="400" width="400"> 
