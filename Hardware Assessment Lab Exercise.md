@@ -56,3 +56,5 @@ UART Shell
 Command to display the flash Layout
 
 <img src="TL-WR886N/Pics/flash_layout.png" height="450" width="400"> 
+
+https://iosoft.blog/2019/01/28/raspberry-pi-openocd/
