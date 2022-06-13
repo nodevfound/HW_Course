@@ -8,7 +8,7 @@
 
 
 ### Lab Exercise for SPI Flash Data Extraction
-Step 1: Attach the test clip according to the RasberryPi SPI configuration.
+Step 1: Attach the test clip according to the RasberryPi SPI configuration.<br>
 Using GPIO 19, 21, 23 and 24 only
 
 <img src="TL-WR886N/Pics/pi%20spi%20pinouts.png" height="400" width="400"> 
